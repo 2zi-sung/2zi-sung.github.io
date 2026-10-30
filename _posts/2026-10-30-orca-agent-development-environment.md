@@ -115,3 +115,7 @@ brew install --cask stablyai/orca/orca
 - 공식 사이트: <https://www.onorca.dev/>
 - 문서: <https://www.onorca.dev/docs> (설치: `/docs/install`, 첫 세션: `/docs/first-session`, Worktrees: `/docs/model/worktrees`)
 - GitHub: <https://github.com/stablyai/orca>
+
+## 다음 글
+
+- [Orca 정리 2: 병렬 실행과 오케스트레이션은 무엇이 다른가]({% post_url 2026-10-30-orca-parallel-vs-orchestration %})
