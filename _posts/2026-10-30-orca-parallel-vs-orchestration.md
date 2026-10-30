@@ -170,3 +170,7 @@ orca orchestration task-list --ready --brief --json   # 실행 가능한 Task만
 
 - Orca 공식 문서, Orchestration: <https://www.onorca.dev/docs/cli/orchestration>
 - 테크버킷, "Orca orchestration 사용법: coordinator와 worker 연결하기" (2026-09-04): <https://techbukket.com/blog/orca-orchestration-guide>
+
+## 다른 주제
+
+- [Mistral Timestral 정리: 시계열 파운데이션 모델은 무엇이고 어떻게 쓰나]({% post_url 2026-10-30-mistral-timestral-time-series-foundation-model %})
