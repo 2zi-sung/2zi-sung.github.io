@@ -1,6 +1,6 @@
 ---
 title: "Orca 정리: 여러 AI 코딩 에이전트를 병렬로 돌리는 개발 환경"
-date: 2026-10-30 21:00:00 +0900
+date: 2026-10-30 09:00:00 +0900
 categories: [Tools, AI Agents]
 tags: [orca, ade, claude-code, codex, git-worktree]
 description: Orca가 무엇인지, 어떤 문제를 푸는지, 처음 설치해서 3개 에이전트를 돌려보는 순서까지 공식 문서 기준으로 정리했다.
